@@ -1,2 +1,5 @@
-/iso
-/*.iso
+/iso/casper/filesystem.squashfs
+/iso/casper/filesystem.size
+/iso/casper/filesystem.manifest
+/iso/casper/filesystem.manifest-remove
+/ubuntu-mini-remix-16.04-amd64.iso
