@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+sudo apt-get install squashfs-tools
 
 cd "`dirname \"$0\"`"
 
